@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 ClassPohe cp = new ClassPohe("POHE");
 Console.WriteLine(cp.Name);
 Console.WriteLine("Sprint 1");
+
+Console.WriteLine("Lavet af Luop i sprint 1");
